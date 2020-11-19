@@ -5,7 +5,7 @@
   Simple issue tracker app created with Node.js, JQery, HTML, CSS and MongoDb.
  
 
-1) SET NODE_ENV to `test` without quotes and set DB to your mongo connection string in .env file or 
+
 <a href="https://github.com/abakuslu/CA2.dev.git"> 
 
  ## Table of contents

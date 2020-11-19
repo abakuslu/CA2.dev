@@ -1,12 +1,12 @@
 
 ------
 
- #Issue Tracker App
+ ## General info
   Simple issue tracker app created with Node.js, JQery, HTML, CSS and MongoDb.
  
 
 
-<a href="https://github.com/abakuslu/CA2.dev.git"> 
+
 	
 
  ## Table of contents
@@ -14,8 +14,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## General info
-This project is simple Lorem ipsum dolor generator.
+
 	
 ## Technologies
 Project is created with:

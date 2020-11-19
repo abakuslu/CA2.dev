@@ -1,0 +1,64 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  padding: 10px;
+}
+
+/* .issue {
+  margin: 20px;
+  padding: 5px;
+  width: 60%;
+  border: 2px solid black;
+} */
+
+.closed {
+  background-color: aqua;
+}
+
+.id {
+  font-size: 10.5px;
+}
+
+#left, #center, #right, #submitNewIssue, #issueDisplay{
+  padding:10px;
+  margin:5px;
+  
+}
+#issueDisplay{
+  width:700px;
+  
+}
+.issue{
+  border-radius:3px;
+  box-shadow:0px 3px 15px rgba(5,0,0,0.2);
+  padding:10px;
+  margin:10px;
+  backround-color:indianred
+  
+}
+/* .closed{
+  backround-color:darkolivegreen */
+}
+.myButton {
+  margin-top:10px;
+	background-color:#44c767;
+	border-radius:20px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	padding:20px 45px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}

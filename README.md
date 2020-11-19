@@ -26,7 +26,7 @@ Project is created with:
 * MongoDb
 	
 ## Setup
- * To run this project,Clone this GitHub <a href=""https://github.com/abakuslu/CA2.dev.git"">Repo</a> to Glitch
+ * To run this project,Clone this GitHub [Repo](https://github.com/abakuslu/CA2.dev.git)  to Glitch
  * Set env file
  *  Add your own MongoDb database.
 

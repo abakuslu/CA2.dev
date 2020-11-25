@@ -1,6 +1,14 @@
 
 ------
 
+ ## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Roadmap](#Roadmap)
+* [Author](#Author)
+
+
  ## General info
   Simple issue tracker app created with Node.js, JQery, HTML, CSS and MongoDb.
  
@@ -9,12 +17,7 @@
 
 	
 
- ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Roadmap](#Roadmap)
-* [Author](#Author)
+
 
 
 	
